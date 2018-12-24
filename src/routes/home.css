@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+}
+
+.table_wrapper {
+  margin: 10px 0;
+}
+
+.input_wrapper {
+  display: flex;
+}
+
+.empty_wrapper {
+  padding: 25px;
+}
